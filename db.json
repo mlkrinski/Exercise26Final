@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Freela",
+      "amount": 300
+    },
+    {
+      "name": "Salário",
+      "amount": 2000,
+      "id": 3
+    },
+    {
+      "name": "Conta de água",
+      "amount": 100,
+      "id": 4
+    },
+    {
+      "name": "MARCELO",
+      "amount": -30,
+      "id": 6
+    },
+    {
+      "name": "asas",
+      "amount": -100,
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "exercicio26final",
+  "version": "1.0.0",
+  "description": "# Exercício Final - Consumindo uma API",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlkrinski/Exercise26Final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlkrinski/Exercise26Final/issues"
+  },
+  "homepage": "https://github.com/mlkrinski/Exercise26Final#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
