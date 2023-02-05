@@ -22,8 +22,13 @@
     },
     {
       "name": "asas",
-      "amount": -100,
+      "amount": 100,
       "id": 7
+    },
+    {
+      "name": "MARCELO",
+      "amount": -30,
+      "id": 8
     }
   ]
 }

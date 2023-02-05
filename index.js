@@ -120,7 +120,7 @@ function createEditTransactionBtn(transaction) {
   editBtn.addEventListener("click", () => {
     document.querySelector("#id").value = transaction.id;
     document.querySelector("#name").value = transaction.name;
-    document.querySelector("#amount").value = transaction.value;
+    document.querySelector("#amount").value = transaction.amount;
   });
   return editBtn;
 }
